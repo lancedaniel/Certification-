@@ -1,5 +1,5 @@
 # Certification-
-Certificates that I have received throughout the years
+Certificates that I have received throughout the years (included in my github):
 
-included
 - CyberOps Association certificate
+- Google IT Support Professional (under my LinkedIn)

@@ -1,4 +1,4 @@
-# Certification-
+# Certifications:
 Certificates that I have received throughout the years (Alphabetical order -- included in my github and/or LinkedIn):
 
 - CyberOps Association certificate
